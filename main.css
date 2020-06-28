@@ -1,0 +1,46 @@
+/* 
+    Document   : main
+    Created on : Aug 22, 2013, 10:50:53 AM
+    Author     : Kaivan Alimohammadi
+    Description:
+        Purpose of the stylesheet follows.
+*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: tahoma;
+    font-size: 12px;
+}
+.wrapper{
+    width:960px;
+    margin: 20px auto;
+    border:1px solid #d7d7d7;
+}
+.frm{
+    display: table;
+    margin:20px auto;
+    direction: rtl;
+}
+input,textArea{
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  border-radius:6px;
+ -webkit-border-radius:6px;
+  outline: none;
+  border:1px solid #d7d7d7;
+  box-shadow: 0px 0px 5px rgb(220,220,220);
+  -webkit-box-shadow: 0px 0px 5px rgb(220,220,220);
+}
+input[type="text"]{
+    width:200px;
+}
+.btn{
+    cursor: pointer;
+    background-color: #898989;
+    padding: 8px 20px;
+    color:#FFFFFF;
+    font-weight: bold;
+}
+#row{
+    display: none;
+}

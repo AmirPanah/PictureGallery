@@ -1,0 +1,7 @@
+C:\Users\Kaivan\Slider\Slider\bin\Slider.dll
+C:\Users\Kaivan\Slider\Slider\bin\Slider.pdb
+C:\Users\Kaivan\Slider\Slider\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kaivan\Slider\Slider\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Kaivan\Slider\Slider\obj\Debug\Slider.csprojResolveAssemblyReference.cache
+C:\Users\Kaivan\Slider\Slider\obj\Debug\Slider.dll
+C:\Users\Kaivan\Slider\Slider\obj\Debug\Slider.pdb
